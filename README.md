@@ -1,4 +1,4 @@
 quadtree-demo
 =============
 
-a quadtree demo using c++, opengl, wxWidgets
+a quadtree demo using c++, recondite, opengl, wxWidgets
